@@ -440,7 +440,7 @@
           "vlm_choice": 1,
           "view": 30,
           "time_cost": 6.552708148956299,
-          "judgment": -1
+          "judgment": 1
         }
       }
     },
@@ -1002,7 +1002,7 @@
                 "vlm_choice": 2,
                 "view": 30,
                 "time_cost": 5.442734956741333,
-                "judgment": -1
+                "judgment": 0
             }
         }
     },
@@ -1334,7 +1334,7 @@
                 "vlm_choice": 5,
                 "view": 30,
                 "time_cost": 11.739019870758057,
-                "judgment": -1
+                "judgment": 1
             }
         }
     },
@@ -3234,7 +3234,7 @@
                 "vlm_choice": 3,
                 "view": 30,
                 "time_cost": 31.18290662765503,
-                "judgment": -1
+                "judgment": 0
             }
         }
     },
@@ -4249,7 +4249,7 @@
                 "vlm_choice": 17,
                 "view": 30,
                 "time_cost": 24.66680335998535,
-                "judgment": -1
+                "judgment": 0
             }
         }
     },
