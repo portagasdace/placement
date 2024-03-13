@@ -1543,7 +1543,7 @@
         "vlm_choice": 7,
         "view": 30,
         "time_cost": 8.418639898300171,
-        "judgment": -1
+        "judgment": 1
       }
     }
   },
@@ -1560,7 +1560,7 @@
         "vlm_choice": 1,
         "view": 30,
         "time_cost": 5.235536813735962,
-        "judgment": -1
+        "judgment": 0
       }
     }
   },
@@ -1573,7 +1573,7 @@
         "vlm_choice": 7,
         "view": 30,
         "time_cost": 8.850834369659424,
-        "judgment": -1
+        "judgment": 0
       }
     }
   },
@@ -1586,7 +1586,7 @@
         "vlm_choice": 7,
         "view": 30,
         "time_cost": 11.35927414894104,
-        "judgment": -1
+        "judgment": 0
       }
     }
   },
@@ -1599,7 +1599,7 @@
         "vlm_choice": 7,
         "view": 30,
         "time_cost": 42.94717741012573,
-        "judgment": -1
+        "judgment": 1
       }
     }
   },
@@ -1620,7 +1620,7 @@
         "vlm_choice": 7,
         "view": 30,
         "time_cost": 11.794568300247192,
-        "judgment": -1
+        "judgment": 1
       }
     }
   },
@@ -1645,7 +1645,7 @@
         "vlm_choice": 7,
         "view": 30,
         "time_cost": 37.845516204833984,
-        "judgment": -1
+        "judgment": 1
       }
     }
   },
@@ -1658,7 +1658,7 @@
         "vlm_choice": 4,
         "view": 30,
         "time_cost": 5.676729679107666,
-        "judgment": -1
+        "judgment": 1
       }
     }
   },
